@@ -1,1 +1,1 @@
-${installPath} cloud functions deploy --e ${envId} --n quickstartFunctions --r --project ${projectPath}
+1${installPath} cloud functions deploy --e ${envId} --n quickstartFunctions --r --project ${projectPath}
